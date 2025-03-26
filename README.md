@@ -2,7 +2,9 @@
 
 <h3 align="center">A passionate FullStack Developer from Brazil</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrohenriquens&show_icons=true&locale=en&layout=compact" alt="pedrohenriquens" /></p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroHenriqueNS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</p>
 
 - 🌱 I’m currently learning **C#, .NET and 3D visuals for websites**
 
@@ -59,3 +61,6 @@
     </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
+
+
+<img src="https://raw.githubusercontent.com/PedroHenriqueNS/PedroHenriqueNS/output/snake.svg" alt="Snake animation" />
